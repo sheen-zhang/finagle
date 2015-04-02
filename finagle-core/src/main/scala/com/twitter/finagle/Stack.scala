@@ -126,6 +126,9 @@ sealed trait Stack[T] {
   }
 }
 
+/**
+ * test comment
+ */
 object Stack {
   /**
    * Base trait for Stack roles. A stack's role is indicative of its
